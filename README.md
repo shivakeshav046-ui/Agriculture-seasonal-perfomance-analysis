@@ -1,1 +1,0 @@
-# Agriculture-seasonal-perfomance-analysis
